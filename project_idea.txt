@@ -1,0 +1,7 @@
+Similar Cloths Search using a Image Key(Image can be a pure cloth image or Human/Object wearing cloths) 
+
+Proposed Dataset: Deep Fashion
+
+In the real life, when we want to buy a specific or similar cloths from a cloth store(for example: H&M), we show a sample picture to the sales person. Then, the sales person displays the exact cloth or some cloths of similar patterns and textures.   
+
+Taking the idea into image processing and deep learning, the proposed application will take an image as input for the search key and give the exact or similar cloths(similar patterns and textures) as output. This application could be used in the online store or chatbot. 

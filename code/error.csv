@@ -1,0 +1,13 @@
+Timestamp,Level,Message
+"Feb 6, 2022, 4:07:39 PM",WARNING,: cannot connect to X server 
+"Feb 6, 2022, 4:07:39 PM",WARNING,OpenCV(4.1.2) /io/opencv/modules/videoio/src/cap_images.cpp:253: error: (-5:Bad argument) CAP_IMAGES: can't find starting number (in the name of file): /content/drive/My Drive/Colab_Notebooks/learning_from_images/project/data/fashion_wizard/db in function 'icvExtractPattern'
+"Feb 6, 2022, 4:07:39 PM",WARNING,[ERROR:0] global /io/opencv/modules/videoio/src/cap.cpp (116) open VIDEOIO(CV_IMAGES): raised OpenCV exception:
+"Feb 6, 2022, 3:59:19 PM",WARNING,: cannot connect to X server 
+"Feb 6, 2022, 3:58:46 PM",WARNING,OpenCV(4.1.2) /io/opencv/modules/videoio/src/cap_images.cpp:253: error: (-5:Bad argument) CAP_IMAGES: can't find starting number (in the name of file): /content/drive/My Drive/Colab_Notebooks/learning_from_images/project/data/fashion_wizard/db in function 'icvExtractPattern'
+"Feb 6, 2022, 3:58:46 PM",WARNING,[ERROR:0] global /io/opencv/modules/videoio/src/cap.cpp (116) open VIDEOIO(CV_IMAGES): raised OpenCV exception:
+"Feb 6, 2022, 3:51:07 PM",WARNING,OpenCV(4.1.2) /io/opencv/modules/videoio/src/cap_images.cpp:253: error: (-5:Bad argument) CAP_IMAGES: can't find starting number (in the name of file): /content/drive/My Drive/Colab_Notebooks/learning_from_images/project/data/fashion_wizard/db in function 'icvExtractPattern'
+"Feb 6, 2022, 3:51:07 PM",WARNING,[ERROR:0] global /io/opencv/modules/videoio/src/cap.cpp (116) open VIDEOIO(CV_IMAGES): raised OpenCV exception:
+"Feb 6, 2022, 3:49:31 PM",WARNING,OpenCV(4.1.2) /io/opencv/modules/videoio/src/cap_images.cpp:253: error: (-5:Bad argument) CAP_IMAGES: can't find starting number (in the name of file): /content/drive/My Drive/Colab_Notebooks/learning_from_images/project/data/fashion_wizard/db in function 'icvExtractPattern'
+"Feb 6, 2022, 3:49:31 PM",WARNING,[ERROR:0] global /io/opencv/modules/videoio/src/cap.cpp (116) open VIDEOIO(CV_IMAGES): raised OpenCV exception:
+"Feb 6, 2022, 2:40:08 PM",INFO,google.colab serverextension initialized.
+"Feb 6, 2022, 2:40:08 PM",INFO,google.colab serverextension initialized.
